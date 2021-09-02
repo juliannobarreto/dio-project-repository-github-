@@ -1,2 +1,2 @@
 # dio-project-repository-github-
-primary/project/
+primary/project
