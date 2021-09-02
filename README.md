@@ -1,7 +1,7 @@
 # dio-project-repository-github-
-primary/project
+primeiro/projeto
 
 Links Úteis 
 
-[introdução básica do GitHub](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view)
+[Introdução básica do Git/GitHub](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view)
 
